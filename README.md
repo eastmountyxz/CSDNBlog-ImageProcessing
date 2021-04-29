@@ -1,6 +1,10 @@
 # ImageProcessing-Python-Blog
 该资源为作者Eastmount在CSDN《Python图像处理》专栏系列分享的全文知识，只要为PDF文件，只希望帮助更多人学习Python图像处理。不负遇见，不负韶华，加油~
 
+原博客参考地址：
+- [https://blog.csdn.net/eastmount/article/category/9278090](https://blog.csdn.net/eastmount/article/category/9278090)
+
+
 ---
 
 [[Python图像处理] 一.图像处理基础知识及OpenCV入门函数](https://blog.csdn.net/Eastmount/article/details/81748802) <br />
@@ -46,7 +50,6 @@
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
 
-原博客参考地址：[https://blog.csdn.net/eastmount/article/category/9278090](https://blog.csdn.net/eastmount/article/category/9278090)
 
 
 后续会尝试结合深度学习进行更深入的研究。
